@@ -16,7 +16,7 @@ Este é um microserviço de autenticação desenvolvido em Node.js com TypeScrip
 * DELETE /users/:uuid
   - Exclui um usuário com base no UUID.
 
-### Autenticação (não disponiveis no momento)
+### Autenticação (não disponíveis no momento)
 
 * POST /token
   - Gera um token de acesso após a autenticação bem-sucedida. As credenciais do usuário são enviadas no corpo da solicitação.
